@@ -1,0 +1,5 @@
+C:\Users\spalanivel\Desktop\Final Project\ChartSample\ChartSample\bin\ChartSample.dll
+C:\Users\spalanivel\Desktop\Final Project\ChartSample\ChartSample\bin\ChartSample.pdb
+C:\Users\spalanivel\Desktop\Final Project\ChartSample\ChartSample\obj\Debug\ChartSample.csprojResolveAssemblyReference.cache
+C:\Users\spalanivel\Desktop\Final Project\ChartSample\ChartSample\obj\Debug\ChartSample.dll
+C:\Users\spalanivel\Desktop\Final Project\ChartSample\ChartSample\obj\Debug\ChartSample.pdb

@@ -1,0 +1,28 @@
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\TwitterStream.exe.config
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\TwitterStream.exe
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\TwitterStream.pdb
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\obj\Debug\TwitterStream.csprojResolveAssemblyReference.cache
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\obj\Debug\TwitterStream.exe
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\obj\Debug\TwitterStream.pdb
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Core.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Security.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Autofac.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\MongoDB.Bson.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\MongoDB.Driver.dll
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\MongoDB.Bson.xml
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream\TwitterStream\bin\Debug\MongoDB.Driver.xml
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream - Copy\TwitterStream\bin\Debug\TwitterStream.exe.config
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream - Copy\TwitterStream\obj\Debug\TwitterStream.exe
+C:\Users\spalanivel\Desktop\Final Project\TwitterStreamAnalysis\TwitterStream - Copy\TwitterStream\obj\Debug\TwitterStream.pdb
